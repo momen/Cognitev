@@ -1,0 +1,11 @@
+
+#django
+Django==2.2.7 # https://www.djangoproject.com/
+django-phonenumber-field==3.0.1 # https://github.com/stefanfoulis/django-phonenumber-field
+phonenumbers==8.11.0  #https://github.com/stefanfoulis/django-phonenumber-field
+django-model-utils==3.2.0  # https://github.com/jazzband/django-model-util
+djoser==1.1.5 # https://github.com/sunscrapers/djoser/
+
+
+# Django REST Framework
+djangorestframework==3.10.3  # https://github.com/encode/django-rest-framework
